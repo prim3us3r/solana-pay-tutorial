@@ -16,4 +16,3 @@ export const products = [
     priceUsd: 10,
   }
 ]
-
